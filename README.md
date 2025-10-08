@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi! I'm Francisco Monteiro
 
-<!--
-**FranciscoMonteiro23/FranciscoMonteiro23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Software Developer** | Student in Web and Mobile Development  
+📍 Vila Nova de Gaia, Portugal  
+✉️ franciscomonteiro223@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m passionate about technology and software development. I’m currently studying **Web and Mobile Development** (CTeSP) and focused on building **web and desktop solutions** using modern technologies.  
+
+- 🌱 Always learning new languages and frameworks  
+- 💡 Enjoy solving problems and creating practical projects  
+- 🛠 Working with HTML, CSS, JavaScript, C# and .NET  
+
+---
+
+## 🛠 Technologies & Skills
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+)  
+- **Backend / Others:** C#, .NET, Node.js  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, VS Code, XAMPP  
+- **Other Skills:** Daily English usage, organization, work under pressure  
+
+
+
+## 🌐 Contact
+- 📧 Email: franciscomonteiro223@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/franciscomonteiro](https://www.linkedin.com/in/franciscomonteiro) *(if available)*  
+
+---
+
+## ✨ Goal
+To build a solid career in software development, contributing to real projects and continuously learning every day.
+
+---
+
