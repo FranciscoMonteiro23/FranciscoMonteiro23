@@ -26,7 +26,7 @@ I’m passionate about technology and software development. I’m currently stud
 
 ## 🌐 Contact
 - 📧 Email: franciscomonteiro223@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/franciscomonteiro](https://www.linkedin.com/in/franciscomonteiro) *(if available)*  
+- 💼 LinkedIn: [linkedin.com/in/franciscomonteiro](https://www.linkedin.com/in/franciscomonteiro) 
 
 ---
 
