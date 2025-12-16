@@ -17,7 +17,7 @@ I’m passionate about technology and software development. I’m currently stud
 
 ## 🛠 Technologies & Skills
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+)  
-- **Backend / Others:** C#, .NET, Node.js  
+- **Backend / Others:** C#, .NET, PHP
 - **Databases:** MySQL, SQLite  
 - **Tools:** Git, VS Code, XAMPP  
 - **Other Skills:** Daily English usage, organization, work under pressure  
