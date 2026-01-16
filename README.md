@@ -11,7 +11,7 @@ I’m passionate about technology and software development. I’m currently stud
 
 - 🌱 Always learning new languages and frameworks  
 - 💡 Enjoy solving problems and creating practical projects  
-- 🛠 Working with HTML, CSS, JavaScript, C# and .NET , Microsoft Azure 
+- 🛠 Working with HTML, CSS, JavaScript, C# and .NET , Microsoft Azure , PHP
 
 ---
 
